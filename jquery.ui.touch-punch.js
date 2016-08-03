@@ -1,5 +1,6 @@
 /*!
- * jQuery UI Touch Punch 0.2.3
+ * !!! This is fork with added support for zoomed-in viewport on mobile.
+ * jQuery UI Touch Punch 0.2.3.fork
  *
  * Copyright 2011–2014, Dave Furfero
  * Dual licensed under the MIT or GPL Version 2 licenses.
@@ -48,9 +49,11 @@
       window,           // view                       
       1,                // detail                     
       touch.screenX,    // screenX                    
-      touch.screenY,    // screenY                    
-      touch.clientX,    // clientX                    
-      touch.clientY,    // clientY                    
+      touch.screenY,    // screenY           
+      
+      //FORK: fix offset while zoomed-in on mobile
+      touch.clientX + $(window).scrollLeft(),    // clientX + scrollLeft
+      touch.clientY + $(window).scrollTop(),    // clientY + scrollTop                
       false,            // ctrlKey                    
       false,            // altKey                     
       false,            // shiftKey                   
