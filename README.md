@@ -28,12 +28,12 @@ I created test case in which you can see behavior of original version and my for
 
 ### Test cases
 
-1. Original - drag rows of a table :(
-2. Original - drag divs :(
-3. Fork - drag rows of a table :)
-4. Fork - drag divs :)
-5. Fork - drag rows of a table - w/o relative container :(
-6. Fork - drag divs - w/o relative container :(
+1. [Original - drag rows of a table :(](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/regular-table.html)
+2. [Original - drag divs :(](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/regular-div.html)
+3. [Fork - drag rows of a table :)](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/fork-table.html)
+4. [Fork - drag divs :)](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/fork-div.html)
+5. [Fork - drag rows of a table - w/o relative container :(](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/fork-table-norelative.html)
+6. [Fork - drag divs - w/o relative container :(](http://mash.stronazen.pl/kocik/jquery-ui-touch-punch/example/fork-div-norelative.html)
 
 ## How does it work?
 
