@@ -1,6 +1,6 @@
 {
-  "name": "jqueryui-touch-punch",
-  "version": "0.2.3",
+  "name": "jqueryui-touch-punch-zoom-fork",
+  "version": "0.2.3.fork",
   "main": "jquery.ui.touch-punch.min.js",
   "ignore": [],
   "dependencies": {
