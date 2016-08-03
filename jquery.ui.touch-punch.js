@@ -1,6 +1,9 @@
 /*!
- * !!! This is fork with added support for zoomed-in viewport on mobile.
  * jQuery UI Touch Punch 0.2.3.fork
+ *
+ * This is fork with added support for zoomed-in viewport on mobile.
+ * For more info look here:
+ * https://github.com/Kocik/jquery-ui-touch-punch-zoom-fork
  *
  * Copyright 2011–2014, Dave Furfero
  * Dual licensed under the MIT or GPL Version 2 licenses.
