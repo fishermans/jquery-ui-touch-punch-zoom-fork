@@ -1,7 +1,7 @@
 # jQuery UI Touch Punch
 ## Touch Event Support for jQuery UI
 
-This fork implements AMD support for require.js
+AMD support added for default touch punch to be used with require.js
 
 > **jQuery UI Touch Punch is a small hack that enables the use of touch events on sites using the jQuery UI user interface library.**
 
